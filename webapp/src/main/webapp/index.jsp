@@ -1,11 +1,11 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>Welcome!! Saidemy DevOps Student Registration!</h1>
+    <h1>Welcome!! Amar , Saidemy DevOps Student Registration!</h1>
     <p>Please fill in this form!</p>
     <hr>
     <br>
 
-    <label for="email"><b>Email_enter</b></label>
+    <label for="email"><b>Email</b></label>
     <input type="text" placeholder="Enter Email" name="email" id="email" required>
     <br>
 
